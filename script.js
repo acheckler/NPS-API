@@ -1,3 +1,5 @@
+'use strict'
+
 const searchURL = "https://developer.nps.gov/api/v1/parks"
 
 const apiKey = "8mrx3XYhahZLQwvRLjjlSZpfC3bSTNB2yFpRXbt6"
